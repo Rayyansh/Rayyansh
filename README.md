@@ -1,48 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 40px;
-      background-color: white;
-      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-      border-radius: 10px;
-    }
-    .header {
-      text-align: center;
-      margin-bottom: 20px;
-    }
-    .expertise {
-      margin-bottom: 20px;
-    }
-    .projects {
-      margin-bottom: 20px;
-    }
-    .collaborate {
-      text-align: center;
-    }
-    .collaborate a {
-      display: inline-block;
-      margin-top: 10px;
-      padding: 10px 20px;
-      background-color: #007bff;
-      color: white;
-      text-decoration: none;
-      border-radius: 5px;
-    }
-    .footer {
-      text-align: center;
-      margin-top: 20px;
-      color: #888;
-    }
-  </style>
-</head>
 <body>
   <div class="container">
     <div class="header">
