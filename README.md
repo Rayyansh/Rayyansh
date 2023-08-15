@@ -24,15 +24,15 @@
       <h2>🛠️ Tools and Technologies</h2>
       <ul>
         <li><img src="URL_TO_PYTHON_LOGO.png" alt="Python"><br>Python</li>
-        <li><img src="URL_TO_MYSQL_LOGO.png" alt="MySQL"><br>MySQL</li>
-        <li><img src="URL_TO_POSTGRESQL_LOGO.png" alt="PostgreSQL"><br>PostgreSQL</li>
+        <li><img src="icons/MySQL-Logo.png" alt="MySQL"><br>MySQL</li>
+        <li><img src="icons/5968342.png" alt="PostgreSQL"><br>PostgreSQL</li>
         <li><img src="URL_TO_FLASK_LOGO.png" alt="Flask"><br>Flask</li>
-        <li><img src="URL_TO_DJANGO_LOGO.png" alt="Django"><br>Django</li>
+        <li><img src="icons/django.png" alt="Django"><br>Django</li>
         <li><img src="URL_TO_FASTAPI_LOGO.png" alt="FastAPI"><br>FastAPI</li>
         <li><img src="URL_TO_DOCKER_LOGO.png" alt="Docker"><br>Docker</li>
-        <li><img src="URL_TO_GIT_LOGO.png" alt="Git"><br>Git</li>
-        <li><img src="/Rayyansh/blob/main/icons/112665445-2008ec80-8e6c-11eb-9647-623a347ddade.png" alt="CCXT"><br>CCXT</li>
-        <li><img src="URL_TO_REDIS_LOGO.png" alt="Redis"><br>Redis</li>
+        <li><img src="icons/Git-Icon-1788C.png" alt="Git"><br>Git</li>
+        <li><img src="icons/112665445-2008ec80-8e6c-11eb-9647-623a347ddade.png" alt="CCXT"><br>CCXT</li>
+        <li><img src="icons/550460.png" alt="Redis"><br>Redis</li>
         <li><img src="URL_TO_NGINX_LOGO.png" alt="Nginx"><br>Nginx</li>
       </ul>
     </div>
