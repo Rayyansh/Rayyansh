@@ -31,7 +31,7 @@
         <li><img src="URL_TO_FASTAPI_LOGO.png" alt="FastAPI"><br>FastAPI</li>
         <li><img src="URL_TO_DOCKER_LOGO.png" alt="Docker"><br>Docker</li>
         <li><img src="URL_TO_GIT_LOGO.png" alt="Git"><br>Git</li>
-        <li><img src="URL_TO_CCXT_LOGO.png" alt="CCXT"><br>CCXT</li>
+        <li><img src="/Rayyansh/blob/main/icons/112665445-2008ec80-8e6c-11eb-9647-623a347ddade.png" alt="CCXT"><br>CCXT</li>
         <li><img src="URL_TO_REDIS_LOGO.png" alt="Redis"><br>Redis</li>
         <li><img src="URL_TO_NGINX_LOGO.png" alt="Nginx"><br>Nginx</li>
       </ul>
