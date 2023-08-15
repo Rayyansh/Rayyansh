@@ -21,20 +21,20 @@
       <p>Explore my repositories to witness the fusion of code and creativity. From innovative web applications to sophisticated data analysis projects, you'll find a diverse range of endeavors that showcase my passion for coding excellence.</p>
     </div>
     <div class="tools">
-      <h2>🛠️ Tools and Technologies</h2>
-      <ul float='left'>
-        <li><img src="icons/python-logo-only.png" alt="Python" width='100'></li>
-        <li><img src="icons/MySQL-Logo.png" alt="MySQL" width='100'></li>
-        <li><img src="icons/5968342.png" alt="PostgreSQL" width='100'></li>
-        <li><img src="icons/prog_flask.png" alt="Flask" width='100'></li>
-        <li><img src="icons/django.png" alt="Django" width='100'></li>
-        <li><img src="icons/fastapi.png" alt="FastAPI" width='100' ></li>
-        <li><img src="icons/docker.png" alt="Docker" width='100'></li>
-        <li><img src="icons/Git-Icon-1788C.png" alt="Git" width='100'></li>
-        <li><img src="icons/112665445-2008ec80-8e6c-11eb-9647-623a347ddade.png" alt="CCXT" width='100'></li>
-        <li><img src="icons/550460.png" alt="Redis" width='100'></li>
-        <li><img src="icons/nginx_logo_icon_169915.png" alt="Nginx" width='100'></li>
-      </ul>
+    <h2>🛠️ Tools and Technologies</h2>
+    <div class="images">
+        <img src="icons/python-logo-only.png" alt="Python" width="100">
+        <img src="icons/MySQL-Logo.png" alt="MySQL" width="100">
+        <img src="icons/5968342.png" alt="PostgreSQL" width="100">
+        <img src="icons/prog_flask.png" alt="Flask" width="100">
+        <img src="icons/django.png" alt="Django" width="100">
+        <img src="icons/fastapi.png" alt="FastAPI" width="100">
+        <img src="icons/docker.png" alt="Docker" width="100">
+        <img src="icons/Git-Icon-1788C.png" alt="Git" width="100">
+        <img src="icons/112665445-2008ec80-8e6c-11eb-9647-623a347ddade.png" alt="CCXT" width="100">
+        <img src="icons/550460.png" alt="Redis" width="100">
+        <img src="icons/nginx_logo_icon_169915.png" alt="Nginx" width="100">
+      </div>
     </div>
     <div class="collaborate">
       <h2>📚 Let's Collaborate</h2>
