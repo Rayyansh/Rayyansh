@@ -20,10 +20,26 @@
       <h2>🛠️ Projects and Contributions</h2>
       <p>Explore my repositories to witness the fusion of code and creativity. From innovative web applications to sophisticated data analysis projects, you'll find a diverse range of endeavors that showcase my passion for coding excellence.</p>
     </div>
+    <div class="tools">
+      <h2>🛠️ Tools and Technologies</h2>
+      <ul>
+        <li><img src="URL_TO_PYTHON_LOGO.png" alt="Python"><br>Python</li>
+        <li><img src="URL_TO_MYSQL_LOGO.png" alt="MySQL"><br>MySQL</li>
+        <li><img src="URL_TO_POSTGRESQL_LOGO.png" alt="PostgreSQL"><br>PostgreSQL</li>
+        <li><img src="URL_TO_FLASK_LOGO.png" alt="Flask"><br>Flask</li>
+        <li><img src="URL_TO_DJANGO_LOGO.png" alt="Django"><br>Django</li>
+        <li><img src="URL_TO_FASTAPI_LOGO.png" alt="FastAPI"><br>FastAPI</li>
+        <li><img src="URL_TO_DOCKER_LOGO.png" alt="Docker"><br>Docker</li>
+        <li><img src="URL_TO_GIT_LOGO.png" alt="Git"><br>Git</li>
+        <li><img src="URL_TO_CCXT_LOGO.png" alt="CCXT"><br>CCXT</li>
+        <li><img src="URL_TO_REDIS_LOGO.png" alt="Redis"><br>Redis</li>
+        <li><img src="URL_TO_NGINX_LOGO.png" alt="Nginx"><br>Nginx</li>
+      </ul>
+    </div>
     <div class="collaborate">
       <h2>📚 Let's Collaborate</h2>
-      <p>I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Whether you're seeking a skilled contributor for your project or looking to explore new horizons in Python development, feel free to reach out!</p>
-      <a href="mailto:rayyan@example.com">Let's Collaborate</a>
+      <p>I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Whether you're seeking a skilled contributor for your project or looking to explore new horizons in Python development, feel free to reach out! Let's Collaborate</p>
+      
     </div>
   </div>
   <div class="footer">
