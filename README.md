@@ -1,31 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <head>
-  <style>
-    /* ... (previous styles) ... */
-    .tools {
-      margin-bottom: 20px;
-    }
-    .tools h2 {
-      margin-bottom: 10px;
-    }
-    .tools ul {
-      list-style: none;
-      padding: 0;
-      display: flex; /* Display images in a single horizontal row */
-      flex-direction: column; /* Display images vertically */
-    }
-    .tools li {
-      margin-bottom: 10px; /* Add spacing between images */
-      text-align: center;
-    }
-    .tools img {
-      max-width: 50px; /* Adjust image size */
-      height: auto;
-    }
-  </style>
-</head>
   <div class="container">
     <div class="header">
       <h1>Rayyan's Code Journey 🚀</h1>
@@ -47,18 +22,18 @@
     </div>
     <div class="tools">
       <h2>🛠️ Tools and Technologies</h2>
-      <ul>
-        <li><img src="icons/python-logo-only.png" alt="Python"></li>
-        <li><img src="icons/MySQL-Logo.png" alt="MySQL"></li>
-        <li><img src="icons/5968342.png" alt="PostgreSQL"></li>
-        <li><img src="icons/flask.png" alt="Flask"></li>
-        <li><img src="icons/django.png" alt="Django"></li>
-        <li><img src="icons/fastapi.png" alt="FastAPI"></li>
-        <li><img src="icons/docker.png" alt="Docker"></li>
-        <li><img src="icons/Git-Icon-1788C.png" alt="Git"></li>
-        <li><img src="icons/112665445-2008ec80-8e6c-11eb-9647-623a347ddade.png" alt="CCXT"></li>
-        <li><img src="icons/550460.png" alt="Redis"></li>
-        <li><img src="icons/nginx_logo_icon_169915.png" alt="Nginx"></li>
+      <ul float='left'>
+        <li><img src="icons/python-logo-only.png" alt="Python" width='100'></li>
+        <li><img src="icons/MySQL-Logo.png" alt="MySQL" width='100'></li>
+        <li><img src="icons/5968342.png" alt="PostgreSQL" width='100'></li>
+        <li><img src="icons/prog_flask.png" alt="Flask" width='100'></li>
+        <li><img src="icons/django.png" alt="Django" width='100'></li>
+        <li><img src="icons/fastapi.png" alt="FastAPI" width='100' ></li>
+        <li><img src="icons/docker.png" alt="Docker" width='100'></li>
+        <li><img src="icons/Git-Icon-1788C.png" alt="Git" width='100'></li>
+        <li><img src="icons/112665445-2008ec80-8e6c-11eb-9647-623a347ddade.png" alt="CCXT" width='100'></li>
+        <li><img src="icons/550460.png" alt="Redis" width='100'></li>
+        <li><img src="icons/nginx_logo_icon_169915.png" alt="Nginx" width='100'></li>
       </ul>
     </div>
     <div class="collaborate">
