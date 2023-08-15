@@ -39,7 +39,6 @@
     <div class="collaborate">
       <h2>📚 Let's Collaborate</h2>
       <p>I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Whether you're seeking a skilled contributor for your project or looking to explore new horizons in Python development, feel free to reach out! Let's Collaborate</p>
-      
     </div>
   </div>
   <div class="footer">
