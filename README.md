@@ -20,8 +20,6 @@
       <h2>🛠️ Projects and Contributions</h2>
       <p>Explore my repositories to witness the fusion of code and creativity. From innovative web applications to sophisticated data analysis projects, you'll find a diverse range of endeavors that showcase my passion for coding excellence.</p>
     </div><br>
-    
-
     <div class="tools">
     <h2>🛠️ Tools and Technologies</h2>
     <div class="images">
