@@ -35,6 +35,7 @@
         <img src="icons/112665445-2008ec80-8e6c-11eb-9647-623a347ddade.png" alt="CCXT" width="120">
         <img src="icons/550460.png" alt="Redis" width="50">
         <img src="icons/nginx_logo_icon_169915.png" alt="Nginx" width="50">
+        <img src="icons/Wordpress_Blue_logo.png" alt="Wordpress" width="50">
       </div>
     </div><br>
     <div class="collaborate">
