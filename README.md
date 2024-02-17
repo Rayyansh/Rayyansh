@@ -4,7 +4,7 @@
   <div class="container">
     <div class="header">
       <h1>Rayyan's Code Journey 🚀</h1>
-      <p>Welcome to my GitHub repository! I'm Rayyan, a passionate and versatile Python developer with a knack for creating exceptional solutions in a wide array of domains, from web development and data analytics to algorithmic trading and AI-driven automation.</p>
+      <p>Welcome to my GitHub repository! I'm Rayyan, a passionate and versatile Python developer with a knack for creating exceptional solutions in a wide array of domains, from web development and machine learning to algorithmic trading and AI-driven automation and solutions.</p>
     </div><br>
     <div class="expertise">
       <h2>🚀 Expertise</h2>
