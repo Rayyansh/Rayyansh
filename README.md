@@ -13,6 +13,7 @@
         <li><strong>Data Analytics & Analysis:</strong> Unveiling insights from data, turning raw information into actionable knowledge.</li>
         <li><strong>Web Scraping & APIs:</strong> Navigating the digital landscape to extract and integrate valuable data.</li>
         <li><strong>Algorithmic Trading:</strong> Designing strategies that navigate the dynamic world of financial markets.</li>
+        <li><strong>Machine Learning:</strong> Implementing algorithms to enable systems to learn and improve from experience.</li>
         <li><strong>AI & Automation:</strong> Creating smart solutions that streamline operations and enhance efficiency.</li>
       </ul>
     </div><br>
